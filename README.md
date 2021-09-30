@@ -1,4 +1,4 @@
-# flutter_modular
+# flutter_modular_app
 
 A new Flutter project.
 
